@@ -28,6 +28,7 @@ values."
      emacs-lisp
      (c-c++ :variables c-c++-enable-clang-support t)
      auto-completion
+     version-control
      git
      markdown
      ;; org
